@@ -1,0 +1,7 @@
+import pyautogui as pa
+print(pa.position())
+#pa.click(284,35)
+pa.click(411,60)
+pa.click(284,35)
+pa.typewrite("Hello world")
+pa.typewrite(["enter"])
